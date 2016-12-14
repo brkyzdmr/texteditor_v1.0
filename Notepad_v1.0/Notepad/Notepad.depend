@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1481756361 source:c:\users\berka\desktop\notepad_v1.0\notepad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
